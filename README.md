@@ -5,6 +5,6 @@
 # SRS (Procedure):
 
 # DIAGRAMS:
-(upload all 6 diagrams)
+(upload all 6 diagrams)c
 
 # RESULT:
